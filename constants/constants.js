@@ -38,7 +38,7 @@ export const projects = [
   {
     title: 'Mixed Reality Giant Chess',
     description: "Mixed Reality Giant Chess is a unity game which leverages MRTK-3 to create a holographic chess game you can play in your living room.",
-    image: '/images/chess.jpg',
+    image: '/images/chess.png',
     tags: ['C#', 'Unity', 'MRTK-3', 'Microsoft HoloLens 3'],
     source: 'https://github.com/shurtado12/ShellHacks2022',
     visit: 'https://www.youtube.com/watch?v=pDe5CFj7W9w',
